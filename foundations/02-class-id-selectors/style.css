@@ -1,0 +1,16 @@
+p{
+    background-color: rgb(222,106,135);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#id2{
+    color: blue;
+    font-size: 36px;
+}
+.num3{
+    font-size: 24px;
+}
+#id4{
+    background-color: lightgreen;
+    font-size : 24px;
+    font-weight: 700;
+}
